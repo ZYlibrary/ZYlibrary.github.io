@@ -2,8 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://scmj.blog/categories/</loc>
+    <lastmod>2026-07-06T23:05:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/posts/</loc>
+    <lastmod>2026-07-06T23:05:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/tags/</loc>
+    <lastmod>2026-07-06T23:05:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/posts/%E5%AE%9D%E8%B7%AF%E5%8D%8E30-cw-10bzac%E6%9C%BA%E8%8A%AF/</loc>
+    <lastmod>2026-07-06T23:05:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://scmj.blog/</loc>
-    <lastmod>2026-07-04T20:50:00+08:00</lastmod>
+    <lastmod>2026-07-06T23:05:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/categories/%E6%89%8B%E8%A1%A8/</loc>
+    <lastmod>2026-07-06T23:05:33+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/tags/%E6%89%8B%E8%A1%A8/</loc>
+    <lastmod>2026-07-06T23:05:33+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -14,31 +44,6 @@
   </url><url>
     <loc>https://scmj.blog/about/</loc>
     <lastmod>2026-07-03T22:37:13+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://scmj.blog/categories/</loc>
-    <lastmod>2026-05-19T17:02:54+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://scmj.blog/posts/</loc>
-    <lastmod>2026-05-19T17:02:54+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://scmj.blog/tags/</loc>
-    <lastmod>2026-05-19T17:02:54+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://scmj.blog/categories/%E6%89%8B%E8%A1%A8/</loc>
-    <lastmod>2026-05-19T17:02:54+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://scmj.blog/tags/%E6%89%8B%E8%A1%A8/</loc>
-    <lastmod>2026-05-19T17:02:54+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -64,10 +69,6 @@
   </url><url>
     <loc>https://scmj.blog/posts/%E4%BB%8Eebay%E6%8D%A1%E4%BA%86%E4%B8%80%E4%B8%AA%E9%AB%98%E8%B7%AF%E4%BA%91curvex%E8%AF%B4%E8%B5%B7/</loc>
     <lastmod>2026-04-30T17:13:14+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://scmj.blog/posts/%E5%AE%9D%E8%B7%AF%E5%8D%8E30-cw-10bzac%E6%9C%BA%E8%8A%AF/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
