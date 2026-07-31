@@ -3,26 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://scmj.blog/categories/</loc>
-    <lastmod>2026-07-15T13:35:00+08:00</lastmod>
+    <lastmod>2026-07-30T23:50:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/posts/ideapad-duet-3i-11ian8-%E5%90%AF%E5%A4%A9d11-%E6%8B%86%E6%9C%BA%E5%8F%8A%E5%A4%A7%E4%BF%AE/</loc>
+    <lastmod>2026-07-30T23:50:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://scmj.blog/posts/</loc>
-    <lastmod>2026-07-15T13:35:00+08:00</lastmod>
+    <lastmod>2026-07-30T23:50:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://scmj.blog/tags/</loc>
-    <lastmod>2026-07-15T13:35:00+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://scmj.blog/posts/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%BF%BB%E6%96%B0%E4%B8%80%E5%9D%97%E6%98%9F%E7%BA%B3%E6%96%AF/</loc>
-    <lastmod>2026-07-15T13:35:00+08:00</lastmod>
+    <lastmod>2026-07-30T23:50:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://scmj.blog/</loc>
+    <lastmod>2026-07-30T23:50:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/categories/%E5%9C%9F%E5%9E%83%E5%9C%BE/</loc>
+    <lastmod>2026-07-30T23:50:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/tags/%E5%9C%9F%E5%9E%83%E5%9C%BE/</loc>
+    <lastmod>2026-07-30T23:50:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://scmj.blog/posts/%E4%BB%8E0%E5%BC%80%E5%A7%8B%E7%BF%BB%E6%96%B0%E4%B8%80%E5%9D%97%E6%98%9F%E7%BA%B3%E6%96%AF/</loc>
     <lastmod>2026-07-15T13:35:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
